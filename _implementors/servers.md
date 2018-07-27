@@ -72,7 +72,7 @@ index: 1
 | Scala | [Scalameta](https://github.com/scalameta) | [Metals](https://github.com/scalameta/metals) |
 | Solidity | Kodebox | [Solidity language server](https://github.com/CodeChain-io/solidity-language-server) |
 | TypeCobol| [TypeCobol](https://github.com/TypeCobolTeam) | [TypeCobol language server](https://github.com/TypeCobolTeam/TypeCobol/tree/master/TypeCobol.LanguageServer) |
-| TypeScript|[TypeFox](typefox.io)| [typescript-language-server](https://github.com/theia-ide/typescript-language-server) |
+| TypeScript|[TypeFox](http://typefox.io)| [typescript-language-server](https://github.com/theia-ide/typescript-language-server) |
 | Visualforce | Salesforce |  [VS Code Visualforce extension](https://marketplace.visualstudio.com/items?itemName=salesforce.salesforcedx-vscode-visualforce) |
 | Vue| [Pine Wu](https://github.com/octref) & [@HerringtonDarkholme](https://github.com/HerringtonDarkholme) | [vuejs/vetur](https://github.com/vuejs/vetur) |
 | WXML| [Qiming Zhao](https://github.com/chemzqm)| [wxml-languageserver](https://github.com/chemzqm/wxml-languageserver) |
